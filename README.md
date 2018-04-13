@@ -5,10 +5,7 @@
 <!--A escrever-->
 
 ## Build status
-
-![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/badges/shields.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg)
+<!--A escrever-->
 
 ## Screenshots
 <!--Logo, etc.-->

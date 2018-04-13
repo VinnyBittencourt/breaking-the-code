@@ -1,32 +1,33 @@
 ## Breaking the Code
-<!--A escrever-->
+[![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 
-## Motivation
-<!--A escrever-->
 
-## Build status
-<!--A escrever-->
+## Motivação
+Em breve
 
-## Screenshots
-<!--Logo, etc.-->
 
-## Tech/framework used
+## Status do projeto
+Em desenvolvimento :hourglass_flowing_sand:
+
+## Tecnologia/framework usado
 
 <b>Built with</b>
 - [Bootstrap](https://getbootstrap.com/)
 
-## Features
-<!--What makes your project stand out?-->
-
-## Authors
+## Autores
  
 - Frederico Sampario - [fredimpv](https://github.com/fredimpv)
 - Michelle Lopes - [michellerclopes](https://github.com/michellerclopes)
 - Miguel Pombo - [Wallghost](https://github.com/Wallghost)
 
+## Créditos
 
-## Credits
-<!--Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project.-->
+Template por [TEMPLATED](https://templated.co/).
 
-## License
-<!--A escrever-->
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+
+## Licença
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+

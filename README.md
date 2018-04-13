@@ -3,15 +3,15 @@
 
 
 ## Motivação
-Em breve
+Em breve.
 
 
 ## Status do projeto
 Em desenvolvimento :hourglass_flowing_sand:
 
-## Tecnologia/framework usado
+## Tecnologias/frameworks usados
 
-<b>Built with</b>
+<b>Feito com:</b>
 - [Bootstrap](https://getbootstrap.com/)
 
 ## Autores

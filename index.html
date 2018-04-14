@@ -85,5 +85,17 @@
 
 			<script src="assets/js/indexPage.js"></script>
 
+			<script type="text/javascript">
+				// Consulta Banco de Dados
+				
+				function getDadosBanco() {
+					$.get('/time', 'TabelaTeste' , function(data) {
+						console.log(data);
+					});
+				}
+
+				getDadosBanco();
+			</script>
+
 	</body>
 </html>
